@@ -17,3 +17,12 @@ A lightweight, efficient, and serverless solution for tracking field production,
 
 ## 📊 Business Impact
 Designed to digitize manual tracking processes in construction and technical fields, reducing data entry errors and providing instant cost analysis.
+
+# 🛠️ Field Operations & Digital Transformation
+From the field to digitalization: Tracking our copper and fiber infrastructure works with Pro-Track.
+
+![Field Operations Before](fieldbefore2.jpeg)
+
+*Field installation by day, coding by night.*
+
+![Field Operations After](field-after11.JPG)
